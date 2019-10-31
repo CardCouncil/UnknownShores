@@ -1,1 +1,6 @@
-Project setup
+# Unknown Shores
+
+## Project setup
+```
+nuget
+```
