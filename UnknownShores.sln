@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnknownShores.API", "API\UnknownShores.API.csproj", "{CF1AF4C8-E9BC-4F50-A0C0-92F39B6AFC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1AF4C8-E9BC-4F50-A0C0-92F39B6AFC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1AF4C8-E9BC-4F50-A0C0-92F39B6AFC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1AF4C8-E9BC-4F50-A0C0-92F39B6AFC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1AF4C8-E9BC-4F50-A0C0-92F39B6AFC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEB09848-3F18-4B0D-909A-8905E68C44FC}
+	EndGlobalSection
+EndGlobal
